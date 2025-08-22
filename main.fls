@@ -1,6 +1,6 @@
-PWD c:\Users\usshe\OneDrive\Documents\UNI\QUT ENG\EGB123 - Civil Engineering Systems\Notes
+PWD c:\Users\usshe\OneDrive\Documents\UNI\QUT ENG\EGB123 - Civil Engineering Systems\Notes\EGB123-Notes
 INPUT C:\Users\usshe\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\usshe\OneDrive\Documents\UNI\QUT ENG\EGB123 - Civil Engineering Systems\Notes\main.tex
+INPUT c:\Users\usshe\OneDrive\Documents\UNI\QUT ENG\EGB123 - Civil Engineering Systems\Notes\EGB123-Notes\main.tex
 OUTPUT main.log
 INPUT C:\Users\usshe\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\usshe\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
@@ -89,17 +89,11 @@ INPUT C:\Users\usshe\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
 INPUT C:\Users\usshe\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
 INPUT C:\Users\usshe\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
 INPUT C:\Users\usshe\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\usshe\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
-INPUT C:\Users\usshe\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
-INPUT C:\Users\usshe\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
 INPUT C:\Users\usshe\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
 INPUT C:\Users\usshe\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
 INPUT C:\Users\usshe\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
 INPUT C:\Users\usshe\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
 INPUT C:\Users\usshe\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\usshe\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
-INPUT C:\Users\usshe\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
-INPUT C:\Users\usshe\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
 INPUT C:\Users\usshe\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\usshe\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\usshe\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bkm-pdftex.def

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1755821957.71274 "c:/Users/usshe/OneDrive/Documents/UNI/QUT ENG/EGB123 - Civil Engineering Systems/Notes/EGB123-Notes/main.tex" "main.pdf" "main" 1755821962.36925 0
+["pdflatex"] 1756088168.69694 "c:/Users/usshe/OneDrive/Documents/UNI/QUT ENG/EGB123 - Civil Engineering Systems/Notes/EGB123-Notes/main.tex" "main.pdf" "main" 1756088174.63087 0
   "C:/Users/usshe/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1755821942 175097 e51dfd797ae5dd26fd56bd4572e98089 ""
   "C:/Users/usshe/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1755821947 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/usshe/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs5.tfm" 1755821950 684 3a51bd4fd9600428d5264cf25f04bb9a ""
@@ -337,13 +337,20 @@
   "C:/Users/usshe/AppData/Local/Programs/MiKTeX/tex/latex/varwidth/varwidth.sty" 1238469540 10894 d359a13923460b2a73d4312d613554c8 ""
   "C:/Users/usshe/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/usshe/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "c:/Users/usshe/OneDrive/Documents/UNI/QUT ENG/EGB123 - Civil Engineering Systems/Notes/EGB123-Notes/main.tex" 1755821612 13931 39eebdf6c42d736bf1af4a4561b43ded ""
+  "c:/Users/usshe/OneDrive/Documents/UNI/QUT ENG/EGB123 - Civil Engineering Systems/Notes/EGB123-Notes/main.tex" 1756088161 20459 3dd5fde3844857191a295a162254c097 ""
+  "images/figures/Comgov.png" 1756085543 133561 152bd6668144f6be3bcbe6a1341c1eae ""
+  "images/figures/ENGDIS.png" 1756087467 54185 07304525ce8b3fa2a095a06e3cacbac4 ""
+  "images/figures/comgov2.png" 1756085560 119643 b1c3afed0908e366223c78f7b53059ee ""
+  "images/figures/govstructure.png" 1756085307 68991 1b1ade082ae84a913936e8d904e36ac0 ""
+  "images/figures/sphere.png" 1756087693 103283 b65c9258b205eeb8f077db5cbc3f3e3d ""
+  "images/figures/state1.png" 1756085693 106917 a8062285199fba1ec7e21e5cb47a7f96 ""
+  "images/figures/state2.png" 1756085704 46846 d76a3debe83b5b87b54c286e3212f13b ""
   "letterfonts.tex" 1755821612 12159 10a528da1cf20eff68d43e4566ed8816 ""
   "macros.tex" 1755821612 3267 bf8b70c0461b933bb56de8519054f048 ""
-  "main.aux" 1755821961 15705 c2944c46e1d21991c31c4672ab275dc7 "pdflatex"
-  "main.tex" 1755821612 13931 39eebdf6c42d736bf1af4a4561b43ded ""
-  "main.toc" 1755821961 2287 13c1a55d67e3a2d143c6d887804289f8 "pdflatex"
-  "preamble.tex" 1755821612 29422 94b021c8e3b57a67bb10e1582493c7f4 ""
+  "main.aux" 1756088173 22222 2673075214feb0f77448ac3f21cbab9e "pdflatex"
+  "main.tex" 1756088161 20459 3dd5fde3844857191a295a162254c097 ""
+  "main.toc" 1756088173 3126 adfae8c15383a359d84b221f96558f67 "pdflatex"
+  "preamble.tex" 1756084607 29630 459506563fd7588ad4a8b902ee753f80 ""
   (generated)
   "main.aux"
   "main.log"
